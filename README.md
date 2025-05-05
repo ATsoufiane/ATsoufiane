@@ -14,11 +14,11 @@
 
 - 🔭 I’m studying [software engineering](https://github.com/ATsoufiane)
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning **C ++ , JAVA**
 
 - 💬 Ask me about **everything**
 
-- 📫 How to reach me ****
+- 📫 How to reach me **atsoufiane.13@gmail.com**
 
 
 
