@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/atsouf?s=11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/X.svg" alt="ATSoufiane" height="30" width="40" /></a>
+<a href="https://x.com/atsouf?s=11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ATSoufiane" height="30" width="40" /></a>
 <a href="https://www.instagram.com/atsoufiane_._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ATSoufiane" height="30" width="40" /></a>
 <a href="https://discord.gg/bepTt4d2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shadowspecter._." height="30" width="40" /></a>
 </p>
@@ -46,5 +46,6 @@
 
 
 <p align="center">      
-        < img src="https://i.pinimg.com/originals/83/f6/5e/83f65e8c6efc88fabfcfbb11cf63bd8a.gif" alt="ATsoufiane">
+          <img src ="https://i.pinimg.com/originals/83/f6/5e/83f65e8c6efc88fabfcfbb11cf63bd8a.gif" width="1100" />
+       
 </p>
