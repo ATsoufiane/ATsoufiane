@@ -37,10 +37,7 @@
 
 ---
 ## My GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ATsoufiane&show_icons=true&locale=en&count_private=true&theme=radical)]()
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ATsoufiane&langs_count=8&theme=radical&layout=pie)]()
+[![ATsoufiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=ATsoufiane)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
