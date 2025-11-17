@@ -9,3 +9,6 @@ test_printf
 *~
 *.swp
 .DS_Store
+
+# CodeQL
+_codeql_detected_source_root
