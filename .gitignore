@@ -1,0 +1,11 @@
+# Object files
+*.o
+*.a
+
+# Executable
+test_printf
+
+# Temporary files
+*~
+*.swp
+.DS_Store
