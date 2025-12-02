@@ -4,6 +4,73 @@
 
 
 <h3 align="center">A passionate software engineering student from Morocco 🇲🇦</h3>
+
+---
+
+## 📚 ft_printf Project
+
+This repository includes my implementation of **ft_printf**, a recreation of the standard C library `printf` function. This project is a common assignment in the 42 school curriculum.
+
+### ✨ Features
+
+The ft_printf function supports the following format specifiers:
+- `%c` - Print a single character
+- `%s` - Print a string
+- `%p` - Print a pointer address in hexadecimal format
+- `%d` - Print a signed decimal integer
+- `%i` - Print a signed integer
+- `%u` - Print an unsigned decimal integer
+- `%x` - Print a number in lowercase hexadecimal format
+- `%X` - Print a number in uppercase hexadecimal format
+- `%%` - Print a literal percent sign
+
+### 🛠️ How to Build
+
+```bash
+# Compile the library
+make
+
+# Compile with the test main
+cc main.c libftprintf.a -o test_printf
+
+# Run the test
+./test_printf
+
+# Clean object files
+make clean
+
+# Clean everything
+make fclean
+
+# Recompile everything
+make re
+```
+
+### 📁 Project Structure
+
+- `ft_printf.h` - Header file with function prototypes
+- `ft_printf.c` - Core printf function implementation
+- `ft_printf_utils.c` - Utility functions for character, string, and number printing
+- `ft_printf_hex.c` - Hexadecimal and pointer printing functions
+- `Makefile` - Build configuration
+- `main.c` - Test file with examples
+
+### 🎯 Usage Example
+
+```c
+#include "ft_printf.h"
+
+int main(void)
+{
+    ft_printf("Hello, %s!\n", "World");
+    ft_printf("Number: %d, Hex: %x\n", 42, 42);
+    ft_printf("Pointer: %p\n", &main);
+    return (0);
+}
+```
+
+---
+
 <img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/81465929073340495/E6F64A1452B8609AB04A11E4FF5A20F3C208FB67/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 
