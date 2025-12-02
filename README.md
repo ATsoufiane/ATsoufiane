@@ -36,10 +36,9 @@
 [![soatifi's 42 stats](https://badge.mediaplus.ma/greenbinary/soatifi)](https://github.com/oakoudad/badge42)
 
 ---
-## My GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ATsoufiane&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="soufiane-atifi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/soufiane-atifi?trk=profile-badge">Soufiane ATIFI</a></div>
 
 
 
